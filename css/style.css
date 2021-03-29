@@ -43,6 +43,7 @@ nav{
 }
 #article{
     width: 70%;
+
 }
 .alineadoTextoImagenCentro{
     float: left;
@@ -58,13 +59,13 @@ p{
     float: left;
     width: 41%;
     height: 60%;
-    padding: 1rem;     
+    padding: 1rem;  
 }
 #Hesse{
     float: left;
     width: 40%;
     height: 100%;
-    padding: 1rem;     
+    padding: 1rem;    
 }
 video{
     width: 100%;
@@ -74,6 +75,8 @@ video{
 #Video{
     width: 28.5%;
     position: top;
+    height: 50%;
+
 }
 #article,#aside{
     display: inline-block;
@@ -95,4 +98,8 @@ video{
     float: left;
     padding-right: 1rem;
 }
-
+.contenedor{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
