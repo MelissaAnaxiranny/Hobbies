@@ -60,6 +60,7 @@ p{
     width: 41%;
     height: 60%;
     padding: 1rem;  
+    flex-wrap: wrap;
 }
 #Hesse{
     float: left;
