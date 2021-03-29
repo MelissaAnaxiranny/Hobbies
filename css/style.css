@@ -1,0 +1,98 @@
+
+html,body{
+    background-color:rgb(204, 125, 171);
+
+}
+
+nav{
+    background-color: #FED9B7;
+}
+
+article{
+
+    background-color:#FFE066;
+    padding-left: 1rem;
+
+}
+aside{
+
+    background-color:#70C1B3;
+    margin: 1rem;
+    padding: 1.5rem;
+    height: 100%;
+
+}
+#uno{
+    width: 3%;
+    height: 3%;
+}
+h1,#uno{
+    display: inline-block;
+}
+
+#dos{
+    width: 30px;
+    height: 30px;
+}
+h3,#dos{
+    display: inline-block;   
+}
+nav{
+    text-align: center;
+    padding: .5rem;
+}
+#article{
+    width: 70%;
+}
+.alineadoTextoImagenCentro{
+    float: left;
+    width: 17%;
+    height: 27%;
+    padding: 1rem;
+    /* Ojo vertical-align: text-middle no existe*/
+  }
+p{
+    padding-bottom: 1rem;
+}
+#Enhypen{
+    float: left;
+    width: 41%;
+    height: 60%;
+    padding: 1rem;     
+}
+#Hesse{
+    float: left;
+    width: 40%;
+    height: 100%;
+    padding: 1rem;     
+}
+video{
+    width: 100%;
+    height: 100%;
+    
+}
+#Video{
+    width: 28.5%;
+    position: top;
+}
+#article,#aside{
+    display: inline-block;
+}
+#article,#Video{
+    display: inline-block;
+}
+#Ramo{
+    height: 400px;
+
+}
+#Petalos{
+    height: 338px;
+
+}
+.reproductor{
+    height: 30px;
+    width:30px;
+    float: left;
+    padding-right: 1rem;
+}
+
